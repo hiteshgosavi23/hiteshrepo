@@ -1,3 +1,8 @@
 hello github
-h1<hiteshgosavi></h1>
-h2<gosavi hitesh></h2>
+echo "# hiteshrepo" >> README.md
+   25  git init
+   26  git add README.md
+   27  git commit -m "first commit"
+   28  git branch -M main
+   29  git remote add origin https://github.com/hiteshgosavi23/hiteshrepo.git
+   30  git push -u origin main
